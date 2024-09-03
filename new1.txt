@@ -1,1 +1,1 @@
-user is not defined
+user is not defined but define user is not valid and invalid user is not a valid
